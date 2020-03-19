@@ -1,3 +1,1 @@
-function Mouse() {
-	
-}
+function Mouse() {}
